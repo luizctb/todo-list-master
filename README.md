@@ -1,4 +1,6 @@
-# Todo List - Ignite - Rocketseat
+# Todo List Master
+
+> Rocketseat - Ignite.
 
 Projeto construído como desafio do Ignite.
 
@@ -7,8 +9,10 @@ Projeto construído como desafio do Ignite.
 . CSS
 . JavasCript
 . Git e GitHub
+. TypeScript
+. Vite/Node
 
-[🔗Clique para acessar] https://luizctb.github.io/todo-list/
+[🔗Clique para acessar] https://luizctb.github.io/todo-list-master/
 
 Contato: 💻
 luizcarlostb@hotmail.com
