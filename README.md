@@ -2,7 +2,7 @@
 
 > Rocketseat - Ignite.
 
-![preview](./.github/preview.png)
+![preview](./src/.github/preview.png)
 
 Projeto construído como desafio do Ignite.
 
